@@ -17,6 +17,10 @@ Run these two commands inside Claude Code:
 
 ### Kiro
 
+[![Add to Kiro](https://kiro.dev/images/add-to-kiro.svg)](https://kiro.dev/launch/mcp/add?name=infros&config=%7B%22url%22%3A%22https%3A%2F%2Fapi.app.infros.io%2Fassistant%2Fmcp%22%2C%22disabled%22%3Afalse%2C%22autoApprove%22%3A%5B%5D%7D)
+
+Or install it as a power:
+
 1. Open the Powers panel and select **Add Custom Power**.
 2. Select **Import power from a repository URL**.
 3. Enter `https://github.com/infros-io/infros-plugin` and click **Install**.
