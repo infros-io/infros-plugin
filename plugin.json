@@ -1,0 +1,21 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "infros",
+  "version": "1.0.0",
+  "description": "Design cloud architectures and generate Terraform with InfrOS from your AI coding assistant: create Systems and specifications, run designs, review proposals and read the generated Terraform, as your own InfrOS user.",
+  "author": {
+    "name": "InfrOS",
+    "email": "support@infros.io"
+  },
+  "homepage": "https://infros.io",
+  "repository": "https://github.com/infros-io/infros-plugin",
+  "license": "MIT",
+  "keywords": [
+    "infros",
+    "cloud",
+    "architecture",
+    "terraform",
+    "iac",
+    "mcp"
+  ]
+}

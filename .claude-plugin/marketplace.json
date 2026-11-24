@@ -1,0 +1,15 @@
+{
+  "name": "infros",
+  "description": "The InfrOS plugin",
+  "owner": {
+    "name": "InfrOS",
+    "email": "support@infros.io"
+  },
+  "plugins": [
+    {
+      "name": "infros",
+      "source": "./",
+      "description": "Design cloud architectures and generate Terraform with InfrOS, as your own InfrOS user."
+    }
+  ]
+}
